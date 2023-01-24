@@ -1,0 +1,22 @@
+body{
+text-align: center;
+}
+h1{
+    font-size:40px;
+    font-family: sans-serif;
+    font-weight:300;
+}
+#apps{
+    background-color: aquamarine;
+
+}
+.line{
+    width:70px ;
+    height: 6px ;
+    margin: 8px auto;
+    background-color: blue;
+}
+img{
+    width: 700;
+    height:  620;
+}
